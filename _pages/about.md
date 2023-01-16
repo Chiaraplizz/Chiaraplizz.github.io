@@ -14,5 +14,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Chiara and I'm a never-ending learner, especially interested in deep learning and computer vision.
-I'm a third year PhD student of the VANDAL (Visual AND Multimodal Applied Learning) laboratory at Politecnico di Torino (Italy), supervised by prof. Barbara Caputo. I am interested in Egocentric Vision and Video Understanding.
+Hi, I’m Chiara and I'm a third year PhD student of the [VANDAL](http://vandal.polito.it/) (Visual AND Multimodal Applied Learning) laboratory at Politecnico di Torino (Italy), supervised by prof. Barbara Caputo. I am interested in Egocentric Vision and Video Understanding.
