@@ -5,3 +5,6 @@ inline: true
 ---
 
 I visited [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/) Lab! :bear:
+
+![Alt text](bair.png)
+
