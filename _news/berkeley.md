@@ -6,4 +6,4 @@ inline: true
 
 I visited [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/) Lab! :bear:
 
-<img src="bair.png" alt="me_bair">
+<img src="bair.png" alt="me_bair" style="width:500px;height:auto;">
