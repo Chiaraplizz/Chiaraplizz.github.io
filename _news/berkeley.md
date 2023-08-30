@@ -6,4 +6,5 @@ inline: true
 
 I visited [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/) Lab and started a collaboration with [Prof. Angjoo Kanazawa](http://people.eecs.berkeley.edu/~kanazawa/)! :bear:
 
+
 <img src="/assets/img/bair.png" alt="me_bair" style="width:500px;height:auto;">
