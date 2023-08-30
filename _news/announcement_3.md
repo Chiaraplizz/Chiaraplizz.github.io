@@ -5,5 +5,6 @@ inline: true
 ---
 
 Started a 9-months research visiting @ [University of Bristol](https://www.bristol.ac.uk/) with Prof. [Dima Damen](http://people.cs.bris.ac.uk/~damen//) :sparkles: :smile:
-
+<br>
+<br>
 <img src="/assets/img/bristol.jpg" alt="me_bair" style="width:500px;height:auto;">
