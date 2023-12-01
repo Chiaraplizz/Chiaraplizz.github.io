@@ -53,7 +53,6 @@ toc:
 - **University:** Politecnico di Torino
 - **Year:** 2021
 
-## Master Thesis Co-Supervisor
 - **Title:** Egocentric Event-data for cross-domain analysis in first-person action recognition
 - **Candidates:** Goletto, G., Gusso, E.
 - **University:** Politecnico di Torino
