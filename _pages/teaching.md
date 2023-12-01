@@ -4,7 +4,13 @@ permalink: /Teaching/
 title: Teaching
 nav: true
 nav_order: 4
-description: # Curriculum Vitae Honors and Teaching
+description: 
+
+toc:
+  sidebar: left
+---
+
+# Curriculum Vitae Honors and Teaching
 
 ## Master Thesis Co-Supervisor
 - **Title:** Skeleton-based Pose Estimation
@@ -58,8 +64,3 @@ description: # Curriculum Vitae Honors and Teaching
 - **Candidates:** Goletto, G., Gusso, E.
 - **University:** Politecnico di Torino
 - **Year:** 2020
-
-toc:
-  sidebar: left
----
-
