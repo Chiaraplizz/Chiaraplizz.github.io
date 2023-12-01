@@ -1,11 +1,7 @@
 ---
 layout: Teaching
-permalink: /Teaching/
+permalink: /
 title: Teaching
-nav: true
-nav_order: 4
-description: 
-
 toc:
   sidebar: left
 ---
