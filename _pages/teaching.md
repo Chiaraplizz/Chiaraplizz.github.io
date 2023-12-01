@@ -7,9 +7,6 @@ nav_order: 4
 toc:
   sidebar: left
 ---
-
-# Curriculum Vitae Honors and Teaching
-
 ## Master Thesis Co-Supervisor
 - **Title:** Skeleton-based Pose Estimation
 - **Candidate:** Marchetti, E.
