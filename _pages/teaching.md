@@ -1,6 +1,6 @@
 ---
-layout: Teaching
-permalink: /
+layout: teaching
+permalink: /teaching/
 title: Teaching
 toc:
   sidebar: left
