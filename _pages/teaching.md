@@ -9,11 +9,11 @@ toc:
 ---
 
 ## Teaching Assistant
-- **Courses:** Machine Learning and Deep Learning MsC
+- **Courses:** Machine Learning and Deep Learning M.Sc.
 - **University:** Politecnico di Torino
 - **Year:** 2023
 
-- **Courses:** Machine Learning and Deep Learning MsC
+- **Courses:** Machine Learning and Deep Learning M.Sc.
 - **University:** Politecnico di Torino
 - **Year:** 2022
 
