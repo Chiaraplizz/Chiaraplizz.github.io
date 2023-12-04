@@ -19,6 +19,14 @@ toc:
 
   
 ## Master Thesis Co-Supervisor
+
+<br>
+<br> 
+<img src="/assets/img/Julian.png" alt="ek1" style="width:300px;height:auto;">
+<img src="/assets/img/Ema.png" alt="ek1" style="width:300px;height:auto;">
+
+
+
 - **Title:** Skeleton-based Pose Estimation
 - **Candidate:** Marchetti, E.
 - **University:** Politecnico di Torino
@@ -51,6 +59,7 @@ toc:
 - **University:** Politecnico di Torino
 - **Year:** 2021
 
+
 - **Title:** Domain Adaptation for Egocentric Action Recognition
 - **Candidate:** Zaccone, R.
 - **University:** Politecnico di Torino
@@ -60,5 +69,4 @@ toc:
 - **Candidates:** Goletto, G., Gusso, E.
 - **University:** Politecnico di Torino
 - **Year:** 2020
-
 
