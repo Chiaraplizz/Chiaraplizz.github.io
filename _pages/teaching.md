@@ -42,7 +42,7 @@ toc:
 <!-- - **Year:** 2023 -->
 
 - **Title:** Pseudo‑label Techniques for Domain Adaptation
-- **Candidates:** Guerrier, R. 
+- **Candidate:** Guerrier, R. 
 - **University:** University of Bristol
 - **Year:** 2022
 
