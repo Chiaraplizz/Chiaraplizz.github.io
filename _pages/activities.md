@@ -8,6 +8,8 @@ toc:
   sidebar: left
 ---
 ## Activities
+- **Doctoral Consortium:** Participation at the Doctoral Consortium at [ICCV 2023](https://iccv2023.thecvf.com/call.for.participation-363200-2-30-32.php), Paris, France
+2022
 - **Organizer:** Organizer of [Women In Computer Vision Workshop (WiCV)@ICCV 2023](https://sites.google.com/view/wicviccv2023/home), Paris, France
 2022
 - **Staff Member** in the organization of [I-RIM 2021 Conference](https://i-rim.it/it/conferenza-i-rim-2021/), Rome, 2021
