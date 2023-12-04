@@ -19,9 +19,6 @@ toc:
 
   
 ## Master Thesis Co-Supervisor
-
-<br>
-<br> 
 <img src="/assets/img/Julian.png" alt="ek1" style="width:300px;height:auto;">
 <img src="/assets/img/Ema.png" alt="ek1" style="width:300px;height:auto;">
 
