@@ -1,4 +1,19 @@
+---
+layout: default
+---
 
-          <div class="publications">
-            {% bibliography -f papers %}
-          </div>
+<!-- about.html -->
+     
+        <article>
+          
+
+          <!-- Selected papers -->
+          {% if page.selected_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
+            {%- include publications.html %}
+          {%- endif %}
+
+         
+        </article>
+
+</div>
