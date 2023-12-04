@@ -9,7 +9,7 @@ toc:
 ---
 
 ## Invited Talks 
-- **Title:** Cross-domain Egocentric Action Recognition @ I-RIM Conference
+- **Title:** Cross-domain Egocentric Action Recognition @ [I-RIM Conference](https://i-rim.it/it/conferenza-i-rim-2023/)
 - **Location:** Rome, Italy
 - **Year:** 2023
   
