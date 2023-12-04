@@ -9,8 +9,8 @@ toc:
 ---
 
 ## Invited Talks 
-- **Title:** Cross-domain Egocentric Action Recognition @ [I-RIM Conference](https://i-rim.it/it/conferenza-i-rim-2023/)
-- **Location:** Rome, Italy
+- **Title:** Cross-domain Egocentric Action Recognition
+- **Location:** [I-RIM Conference](https://i-rim.it/it/conferenza-i-rim-2023/), Rome, Italy
 - **Year:** 2023
   
 - **Title:** On the paper: What can a cook in Italy teach a mechanic in India? Action Recognition Generalisation Over Scenarios and Locations
