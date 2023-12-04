@@ -41,7 +41,10 @@ toc:
 <!-- - **University:** University of Bristol -->
 <!-- - **Year:** 2023 -->
 
-
+- **Title:** Pseudo‑label Techniques for Domain Adaptation
+- **Candidates:** Guerrier, R. 
+- **University:** University of Bristol
+- **Year:** 2022
 
 - **Title:** Test-Time Adaptation for Egocentric Action Recognition
 - **Candidates:** Neubert, J., Peirone, S.
@@ -57,3 +60,5 @@ toc:
 - **Candidates:** Goletto, G., Gusso, E.
 - **University:** Politecnico di Torino
 - **Year:** 2020
+
+
