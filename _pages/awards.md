@@ -8,6 +8,9 @@ toc:
   sidebar: left
 ---
 ## Awards
+##### Best PhD Award
+- **Location:** Politecnico di Torino, Italy
+- **Year:** 2024
 
 ##### [EPIC‑Kitchens Unsupervised Domain Adaptation challenge for Action Recognition](https://epic-workshop.org/EPIC_CVPR23/submission) (2nd place)
 - **Location:** CVPR, Vancouver 
