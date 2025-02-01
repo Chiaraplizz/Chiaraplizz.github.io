@@ -9,6 +9,17 @@ toc:
 ---
 
 ## Invited Talks 
+
+###### Seminar Talk @ [University of Catania](https://web.dmi.unict.it/docenti/giovanni.maria.farinella)
+- **Title:** Video Understanding across Modalities and Domains
+- **Location:** Catania, Italy
+- **Year:** 2024
+
+###### Seminar Talk @ [Utrecht University](https://www.uu.nl/en)
+- **Title:** Cross-domain Egocentric Action Recognition
+- **Location:** Utrecht, Netherlands
+- **Year:** 2023
+  
 ###### Invited speaker @ [I-RIM Conference](https://i-rim.it/it/conferenza-i-rim-2023/)
 - **Title:** Cross-domain Egocentric Action Recognition
 - **Location:** Rome, Italy
