@@ -16,28 +16,54 @@ toc:
 - **Course:** Machine Learning and Deep Learning M.Sc.
 - **University:** Politecnico di Torino
 - **Year:** 2022
+  
+## PhD Thesis Co-Supervisor
 
+- **Title:** Efficient Video Understanding
+- **Candidate:** Santambrogio, R.
+- **University:** Politecnico di Milano
+- **Status:** ongoing
   
 ## Master Thesis Co-Supervisor
 <img src="/assets/img/Julian.png" alt="ek1" style="width:300px;height:auto;">
 <img src="/assets/img/Ema.png" alt="ek1" style="width:300px;height:auto;">
 
+- **Title:** LLMs for Training Text-Description Losses
+- **Candidate:** Olivieri, L.
+- **University:** Politecnico di Milano
+- **Status:** ongoing
+
+- **Title:** LLMs for Video Understanding
+- **Candidate:** Lo Gatto, S.
+- **University:** Politecnico di Milano
+- **Status:** ongoing
+
+- **Title:** Neurosymbolic Methods for Video Understanding
+- **Candidate:** Gesualdi, D.
+- **University:** Politecnico di Milano
+- **Status:** ongoing
+
+
+- **Title:** Egocentric 4D Understanding
+- **Candidate:** Taluzzi, A.
+- **University:** Politecnico di Milano
+- **Status:** ongoing
 
 
 - **Title:** Skeleton-based Pose Estimation
 - **Candidate:** Marchetti, E.
 - **University:** Politecnico di Torino
-- **Status:** Ongoing
+- **Status:** 2024
 
 - **Title:** Egocentric 3D Scene Understanding
 - **Candidate:** Borgna, F.
 - **University:** Politecnico di Torino
-- **Status:** Ongoing
+- **Status:** 2024
 
 - **Title:** Large Language Models for Domain Adaptation in Egocentric Action Recognition
 - **Candidate:** Nasirimajd, A.
 - **University:** Politecnico di Torino
-- **Status:** Ongoing
+- **Status:** 2024
 
 <!-- Uncomment the following lines if applicable -->
 <!-- ## Master Thesis Co-Supervisor -->
