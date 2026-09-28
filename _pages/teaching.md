@@ -28,18 +28,10 @@ toc:
 
 ## Supervision @ Bocconi University
 As PI of the Vision and Video Understanding group, I am currently:
-- Supervising 2 Ph.D. students (1 co-supervised)
-- Co-supervising 1 post-doc
+- Co-supervising 2 Ph.D. students
 - Supervising 5 Research Assistants
 - Supervising 10 M.Sc. thesis students and co-supervising 5 M.Sc. students
 
-## PhD Thesis Co-Supervisor
-
-- **Title:** Efficient Video Understanding
-- **Candidate:** Santambrogio, R.
-- **University:** Politecnico di Milano
-- **Status:** ongoing
-  
 ## Master Thesis Co-Supervisor
 <img src="/assets/img/Julian.png" alt="ek1" style="width:300px;height:auto;">
 <img src="/assets/img/Ema.png" alt="ek1" style="width:300px;height:auto;">
