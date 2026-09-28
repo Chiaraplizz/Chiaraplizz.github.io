@@ -10,6 +10,22 @@ toc:
 
 ## Invited Talks 
 
+###### Invited speaker @ International Workshop on Computer Vision (IWCV)
+- **Title:** Invited talk at the 8th International Workshop on Computer Vision
+- **Location:** Stresa, Lake Maggiore, Italy
+- **Year:** 2026
+
+###### Invited speaker @ Benelux Conference on Artificial Intelligence (BNAIC)
+- **Title:** On the Challenges of Learning from Videos
+- **Details:** Invited as the recipient of the AIxIA Award for Best PhD Thesis
+- **Location:** Namur, Belgium
+- **Year:** 2025
+
+###### Seminar Talk @ [Bocconi University](https://cs.unibocconi.eu/)
+- **Title:** From Vision to Perception: Learning from Videos
+- **Location:** Milan, Italy
+- **Year:** 2025
+
 ###### Seminar Talk @ [University of Catania](https://web.dmi.unict.it/docenti/giovanni.maria.farinella)
 - **Title:** Video Understanding across Modalities and Domains
 - **Location:** Catania, Italy

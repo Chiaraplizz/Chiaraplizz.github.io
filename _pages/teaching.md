@@ -8,15 +8,31 @@ toc:
   sidebar: left
 ---
 
+## Course Director
+- **Course:** [Deep Learning for Computer Vision (20600)](https://www.unibocconi.it/en/faculty/chiara-plizzari), M.Sc.
+- **University:** Bocconi University
+- **Year:** 2025-2026, 2026-2027
+
+- **Course:** [Computer Vision and Image Processing (20878)](https://www.unibocconi.it/en/faculty/chiara-plizzari), M.Sc.
+- **University:** Bocconi University
+- **Year:** 2025-2026, 2026-2027
+
 ## Teaching Assistant
 - **Course:** Machine Learning and Deep Learning M.Sc.
 - **University:** Politecnico di Torino
-- **Year:** 2023
+- **Year:** 2022-2023
 
 - **Course:** Machine Learning and Deep Learning M.Sc.
 - **University:** Politecnico di Torino
-- **Year:** 2022
-  
+- **Year:** 2021-2022
+
+## Supervision @ Bocconi University
+As PI of the Vision and Video Understanding group, I am currently:
+- Supervising 2 Ph.D. students (1 co-supervised)
+- Co-supervising 1 post-doc
+- Supervising 5 Research Assistants
+- Supervising 10 M.Sc. thesis students and co-supervising 5 M.Sc. students
+
 ## PhD Thesis Co-Supervisor
 
 - **Title:** Efficient Video Understanding
