@@ -1,0 +1,16 @@
+---
+layout: default
+---
+  <section class="container mt-5 mb-5" id="all-publications">
+    <h3>Publications</h3>
+    <p class="text-muted">* Equal contribution</p>
+
+    <h4 class="pub-group">ArXiv</h4>
+    {% bibliography -f papers -q @*[category=preprint] %}
+
+    <h4 class="pub-group">Conference and Journal Papers</h4>
+    {% bibliography -f papers -q @*[category!=preprint && category!=challenge] %}
+
+    <h4 class="pub-group">Challenge Reports</h4>
+    {% bibliography -f papers -q @*[category=challenge] %}
+  </section>

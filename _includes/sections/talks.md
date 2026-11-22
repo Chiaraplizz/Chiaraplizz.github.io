@@ -1,10 +1,11 @@
-### Invited Talks
+### Invited Talks and Seminars
 
-- **Invited speaker @ International Workshop on Computer Vision (IWCV)**: Invited talk at the 8th International Workshop on Computer Vision. Stresa, Lake Maggiore, Italy. <span class="year">2026</span>
-- **Invited speaker @ Benelux Conference on Artificial Intelligence (BNAIC)**: *On the Challenges of Learning from Videos*. Invited as the recipient of the AIxIA Award for Best PhD Thesis. Namur, Belgium. <span class="year">2025</span>
-- **Seminar Talk @ [Bocconi University](https://cs.unibocconi.eu/)**: *From Vision to Perception: Learning from Videos*. Milan, Italy. <span class="year">2025</span>
-- **Seminar Talk @ [University of Catania](https://web.dmi.unict.it/docenti/giovanni.maria.farinella)**: *Video Understanding across Modalities and Domains*. Catania, Italy. <span class="year">2024</span>
-- **Seminar Talk @ [Utrecht University](https://www.uu.nl/en)**: *Cross-domain Egocentric Action Recognition*. Utrecht, Netherlands. <span class="year">2023</span>
-- **Invited speaker @ [I-RIM Conference](https://i-rim.it/it/conferenza-i-rim-2023/)**: *Cross-domain Egocentric Action Recognition*. Rome, Italy. <span class="year">2023</span>
-- **Paper presentation @ [VisualAI group](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html), Oxford**: on the paper *What can a cook in Italy teach a mechanic in India? Action Recognition Generalisation Over Scenarios and Locations*. Virtual. <span class="year">2022</span>
-- **Seminar Talk @ [Machine Learning and Computer Vision group](https://uob-mavi.github.io/meetings/)**: *Cross-domain Action Recognition from Multiple Information Channels*. University of Bristol, England. <span class="year">2022</span>
+- **Invited Speaker @ Microsoft Research**: Research seminar in Prof. Marc Pollefeys' group. Zurich, Switzerland. <span class="year">July 2026</span>
+- **Invited Speaker @ [International Workshop on Computer Vision (IWCV)](https://rzabih.github.io/iwcv2026/)**: Invited talk at the 8th International Workshop on Computer Vision. Stresa, Lake Maggiore, Italy. <span class="year">May 2026</span>
+- **Invited Speaker @ [Benelux Conference on Artificial Intelligence (BNAIC)](https://bnaic2025.unamur.be/)**: *On the Challenges of Learning from Videos*. Invited as the recipient of the AIxIA Award for Best PhD Thesis. Namur, Belgium. <span class="year">Nov. 2025</span>
+- **Seminar @ [Bocconi University](https://cs.unibocconi.eu/)**: *From Vision to Perception: Learning from Videos*. Computing Sciences Department, Milan, Italy. <span class="year">Apr. 2025</span>
+- **Seminar @ University of Catania**: *Video Understanding across Modalities and Domains*. Invited by Prof. [Giovanni Maria Farinella](https://web.dmi.unict.it/docenti/giovanni.maria.farinella), Image Processing Laboratory. Catania, Italy. <span class="year">Apr. 2024</span>
+- **Seminar @ Utrecht University**: *Cross-domain Egocentric Action Recognition*. Invited by Prof. [Ronald Poppe](https://www.uu.nl/staff/RWPoppe), Computer Vision group. Utrecht, Netherlands. <span class="year">Dec. 2023</span>
+- **Invited Speaker @ [I-RIM Conference](https://i-rim.it/it/conferenza-i-rim-2023/)**: *Cross-domain Egocentric Action Recognition*. Rome, Italy. <span class="year">Oct. 2023</span>
+- **Paper Presentation @ University of Oxford**: *What can a cook in Italy teach a mechanic in India? Action Recognition Generalisation Over Scenarios and Locations*. Presented in the [Visual AI group](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) led by Prof. Andrew Zisserman. Virtual. <span class="year">Dec. 2022</span>
+- **Seminar Talk @ University of Bristol**: *Cross-domain Action Recognition from Multiple Information Channels*. Invited by Prof. [Dima Damen](https://dimadamen.github.io/), [Machine Learning and Computer Vision group](https://uob-mavi.github.io/meetings/). Bristol, England. <span class="year">Apr. 2022</span>

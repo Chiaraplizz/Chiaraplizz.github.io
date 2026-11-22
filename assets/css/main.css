@@ -101,7 +101,7 @@ td.news-date { vertical-align: top; white-space: nowrap; min-width: 85px; paddin
 .news-text img.emoji { vertical-align: -3px; }
 
 /* Publications */
-#publications ol.bibliography { list-style: none; padding-left: 0; margin: 0; }
+ol.bibliography { list-style: none; padding-left: 0; margin: 0; }
 .pub { display: flex; flex-direction: column; gap: 12px; margin-bottom: 28px; }
 .pub-text { min-width: 0; flex: 1; }
 @media (min-width: 576px) {
@@ -136,3 +136,14 @@ img.p-teaser, .p-teaser-empty {
 .photo-row img { width: 300px; height: auto; }
 
 footer { margin-bottom: 30px; }
+
+/* Compact header (publications page) */
+.bio-row.compact { align-items: center; gap: 1rem; }
+.bio-row.compact .social a { font-size: 24px; margin: 0 6px; }
+.bio-row.compact .social .ai { font-size: 26px; }
+a.name-link { color: var(--text-color); }
+a.name-link:hover { text-decoration: none; color: var(--link-color); }
+
+/* Publication lists */
+a.all-pubs { font-size: 1rem; font-weight: 400; }
+h4.pub-group { font-size: 1.25rem; margin: 2rem 0 1rem; padding-bottom: 6px; border-bottom: 1px solid var(--news-border-color); }

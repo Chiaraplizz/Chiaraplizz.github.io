@@ -7,11 +7,11 @@ by `.github/workflows/jekyll.yml` on every push to `source`.
 
 | What | File |
 |---|---|
-| Bio (header text) | `_pages/about.md` |
+| Bio (header text) | `_includes/bio.md` |
 | Name, email, social links, photo, CV | `_config.yml` |
 | News | one file per item in `_news/` (`date:` in front matter + text) |
 | Publications | `_bibliography/papers.bib` |
-| Teaching, Awards, Talks, Activities | `_includes/sections/*.md` |
+| Teaching, Awards, Talks, Service | `_includes/sections/*.md` |
 | Co-author homepage links | `_data/coauthors.yml` |
 | Styling | `assets/css/main.css` |
 
@@ -19,7 +19,9 @@ by `.github/workflows/jekyll.yml` on every push to `source`.
 
 - `preview={file.png}` – teaser image in `assets/img/publication_preview/`
 - `html={url}` – main link; labelled *Code* (github.com), *Project* (github.io) or *Paper*
-- `pdf`, `arxiv` (id only), `code`, `website` – extra links
+- `pdf`, `arxiv` (id only), `code`, `website`, `dataset` – extra links
+- `selected={true}` – also show on the home page
+- `category={preprint}` / `{challenge}` – section on the full publications page
 - `award={Oral}` – green badge
 
 ## Local preview

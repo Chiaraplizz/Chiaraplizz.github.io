@@ -70,11 +70,10 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  sort_by: year
-  order: descending
+  sort_by: none   # keep the order of papers.bib (newest first)
   group_by: none
 
   query: "@*"
 
 # Fields used only by the website; they are hidden from the displayed BibTeX
-filtered_bibtex_keywords: [abbr, abstract, arxiv, award, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, project]
+filtered_bibtex_keywords: [abbr, abstract, arxiv, award, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, project, dataset, category]

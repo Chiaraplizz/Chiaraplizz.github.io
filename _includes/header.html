@@ -1,0 +1,65 @@
+  {%- capture social_links %}
+          <p class="social text-center">
+            {%- if site.scholar_userid %}
+            <a target="_blank" rel="noopener" href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+            {%- endif %}
+            {%- if site.github_username %}
+            <a target="_blank" rel="noopener" href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+            {%- endif %}
+            {%- if site.linkedin_username %}
+            <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            {%- endif %}
+            {%- if site.twitter_username %}
+            <a target="_blank" rel="noopener" href="https://twitter.com/{{ site.twitter_username }}" title="X / Twitter"><i class="fab fa-x-twitter"></i></a>
+            {%- endif %}
+            {%- if site.email %}
+            <a href="mailto:{{ site.email }}" title="Email"><i class="fa fa-envelope"></i></a>
+            {%- endif %}
+            {%- if site.cv_pdf %}
+            <a target="_blank" href="{{ site.cv_pdf | prepend: '/assets/pdf/' | relative_url }}" title="Curriculum Vitae"><i class="ai ai-cv-square"></i></a>
+            {%- endif %}
+          </p>
+  {%- endcapture %}
+  {%- assign home = '/' | relative_url %}
+
+  <!-- Header: photo, bio, links -->
+  <header class="bio-header">
+    <main class="container">
+      {%- if page.layout == 'home' %}
+      <div class="pt-5 pb-4 bio-row">
+        <img src="{{ site.profile_image | prepend: '/assets/img/' | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}"
+             class="rounded-circle profile" width="160" height="160" style="width:160px;height:160px;object-fit:cover;border-radius:50%">
+        <div class="bio-text">
+          <h2>{{ site.first_name }} {{ site.last_name }}</h2>
+          {%- capture bio %}{% include bio.md %}{% endcapture %}
+          <div class="bio">{{ bio | markdownify }}</div>
+          {{ social_links }}
+        </div>
+      </div>
+      {%- else %}
+      <div class="pt-4 pb-3 bio-row compact">
+        <a href="{{ home }}"><img src="{{ site.profile_image | prepend: '/assets/img/' | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}"
+             class="rounded-circle profile" width="80" height="80" style="width:80px;height:80px;object-fit:cover;border-radius:50%"></a>
+        <div class="bio-text">
+          <h2 class="mb-1"><a class="name-link" href="{{ home }}">{{ site.first_name }} {{ site.last_name }}</a></h2>
+          {{ social_links | replace: 'class="social text-center"', 'class="social mb-0"' }}
+        </div>
+      </div>
+      {%- endif %}
+    </main>
+  </header>
+
+  <!-- Section links -->
+  <nav class="section-nav">
+    <div class="container">
+      <a href="{{ home }}#news">News</a>
+      <a href="{{ home }}#publications">Publications</a>
+      <a href="{{ home }}#teaching">Teaching</a>
+      <a href="{{ home }}#awards">Awards</a>
+      <a href="{{ home }}#talks">Talks</a>
+      <a href="{{ home }}#service">Service</a>
+      {%- if site.cv_pdf %}
+      <a target="_blank" href="{{ site.cv_pdf | prepend: '/assets/pdf/' | relative_url }}">CV</a>
+      {%- endif %}
+    </div>
+  </nav>
