@@ -9,7 +9,8 @@ description: >
   egocentric vision and multimodal learning.
 lang: en
 profile_image: MZB_Chiara-byMarionFregeac-1.jpg   # in assets/img/
-cv_pdf: CurriculumVitae.pdf                       # in assets/pdf/
+# cv_pdf: CurriculumVitae.pdf   # TEMPORARILY HIDDEN while the CV is updated; uncomment to restore
+cv_pdf:
 
 url: https://chiaraplizz.github.io
 baseurl: ""
@@ -41,6 +42,7 @@ exclude:
   - .bundle
   - teaser_1.png
   - what_can.png
+  - assets/pdf          # TEMPORARILY not published while the CV is updated
 
 keep_files:
   - CNAME
