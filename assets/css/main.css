@@ -7,7 +7,8 @@
   --news-bg-color: #fafafa;
   --news-border-color: #e0e0e0;
   --card-bg-color: #fff;
-  --link-color: #007bff;
+  --link-color: #7b2cbf;
+  --link-hover: #5a189a;
   --profile-shadow: rgba(200, 200, 200, 0.5);
   --teaser-border: #ddd;
 }
@@ -22,7 +23,8 @@
     --news-bg-color: #1c1f23;
     --news-border-color: #33383d;
     --card-bg-color: #1c1f23;
-    --link-color: #6cb2ff;
+    --link-color: #c39bff;
+    --link-hover: #dcc4ff;
     --profile-shadow: rgba(0, 0, 0, 0.6);
     --teaser-border: #33383d;
   }
@@ -38,6 +40,7 @@ body {
 p, li { line-height: 25px; }
 main.container, .container { max-width: 1000px; }
 a { color: var(--link-color); }
+a:hover, a:focus { color: var(--link-hover); }
 hr { border-top-color: var(--news-border-color); }
 
 /* Header */
