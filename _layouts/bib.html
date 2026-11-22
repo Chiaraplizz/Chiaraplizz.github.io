@@ -14,7 +14,7 @@
       {%- else -%}
         {%- assign preview_src = entry.preview | prepend: '/assets/img/publication_preview/' | relative_url -%}
       {%- endif %}
-    <img src="{{ preview_src }}" alt="" loading="lazy" class="p-teaser">
+    <img src="{{ preview_src }}" alt="" loading="lazy" class="p-teaser" width="160" style="width:160px;max-width:100%;height:auto">
     {%- else %}
     <div class="p-teaser-empty d-none d-sm-block"></div>
     {%- endif %}

@@ -14,7 +14,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap">
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body>
 
@@ -23,7 +23,7 @@
     <main class="container">
       <div class="pt-5 pb-4 bio-row">
         <img src="{{ site.profile_image | prepend: '/assets/img/' | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}"
-             class="rounded-circle profile">
+             class="rounded-circle profile" width="160" height="160" style="width:160px;height:160px;object-fit:cover;border-radius:50%">
         <div class="bio-text">
           <h2>{{ site.first_name }} {{ site.last_name }}</h2>
           <div class="bio">{{ content }}</div>
