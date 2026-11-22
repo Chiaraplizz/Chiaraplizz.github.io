@@ -7,8 +7,9 @@
   --news-bg-color: #fafafa;
   --news-border-color: #e0e0e0;
   --card-bg-color: #fff;
-  --link-color: #7b2cbf;
-  --link-hover: #5a189a;
+  --link-color: #8661c1;
+  --link-hover: #6a46a6;
+  --icon-color: #9b7fd9;
   --profile-shadow: rgba(200, 200, 200, 0.5);
   --teaser-border: #ddd;
 }
@@ -25,6 +26,7 @@
     --card-bg-color: #1c1f23;
     --link-color: #c39bff;
     --link-hover: #dcc4ff;
+    --icon-color: #c39bff;
     --profile-shadow: rgba(0, 0, 0, 0.6);
     --teaser-border: #33383d;
   }
@@ -64,7 +66,8 @@ img.profile { flex: none; }
   .bio-row { flex-direction: row; align-items: flex-start; gap: 2rem; }
   .bio-row h2 { text-align: left; }
 }
-.social a { font-size: 32px; margin: 0 8px; }
+.social a { font-size: 32px; margin: 0 8px; color: var(--icon-color); }
+.social a:hover { color: var(--link-hover); }
 .social .ai { font-size: 34px; vertical-align: -2px; }
 
 /* Section links */
