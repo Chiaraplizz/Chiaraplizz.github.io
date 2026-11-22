@@ -8,7 +8,6 @@ description: >
   Chiara Plizzari, Assistant Professor at Bocconi University. Video understanding,
   egocentric vision and multimodal learning.
 lang: en
-icon: emoticon.png                                # favicon, in assets/img/
 profile_image: MZB_Chiara-byMarionFregeac-1.jpg   # in assets/img/
 cv_pdf: CurriculumVitae.pdf                       # in assets/pdf/
 
